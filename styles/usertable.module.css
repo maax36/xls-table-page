@@ -1,0 +1,22 @@
+.table {
+    border-collapse: collapse;
+}
+
+.table tr,
+.table th,
+.table td {
+    border: 1px #000 solid;
+    padding: 10px;
+}
+
+.table td:nth-child(1) {
+    background-color: #fff6e7;
+}
+
+.table td:nth-child(2) {
+    background-color: #edf8ff;
+}
+
+.table td:nth-child(3) {
+    background-color: #bae4ff;
+}
